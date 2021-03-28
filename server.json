@@ -1,0 +1,83 @@
+{
+  "categories": [
+    { "id": "hyper", "title": "Marketing Digital" },
+    { "id": "hipster", "title": "Design UI/UX" },
+    { "id": "hacker", "title": "Programação" },
+    { "id": "hustler", "title": "Vendas e Customer Success" },
+    { "id": "productmanager", "title": "Product Manager leadership" }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "title": "Marketing Digital e ferramentas",
+      "price": 129.9,
+      "category_id": "hyper",
+      "slug": "marketing-digital"
+    },
+    {
+      "id": 2,
+      "title": "Design UI/UX",
+      "price": 129.9,
+      "category_id": "hipster",
+      "slug": "design-ui-ux"
+    },
+    {
+      "id": 3,
+      "title": "Inside Sales",
+      "price": 129.9,
+      "category_id": "hustler",
+      "slug": "insidesales"
+    },
+    {
+      "id": 4,
+      "title": "Customer Success",
+      "price": 129.9,
+      "category_id": "hustler",
+      "slug": "customer-success"
+    },
+    {
+      "id": 5,
+      "title": "Product Manager",
+      "price": 129.9,
+      "category_id": "hustler",
+      "slug": "product-manager"
+    },
+    {
+      "id": 6,
+      "title": "Desenvolvimento Frontend",
+      "price": 129.9,
+      "category_id": "hacker",
+      "slug": "desenvolvimento-frontend"
+    },
+    {
+      "id": 7,
+      "title": "Desenvolvimento Backend",
+      "price": 129.9,
+      "category_id": "hacker",
+      "slug": "desenvolvimento-backend"
+    },
+    {
+      "id": 8,
+      "title": "Produtos digitais",
+      "price": 35.9,
+      "category_id": "productmanager",
+      "slug": "produtos-digitais"
+    }
+  ],
+  "recommended": [
+    {
+      "id": 6,
+      "title": "Desenvolvimento Frontend",
+      "price": 29.9,
+      "category_id": "hacker",
+      "slug": "desenvolvimento-frontend"
+    },
+    {
+      "id": 7,
+      "title": "Desenvolvimento Backend",
+      "price": 129.9,
+      "category_id": "hacker",
+      "slug": "desenvolvimento-backend"
+    }
+  ]
+}
